@@ -10,7 +10,9 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Memahami konsep MVC.
 
 **Screenshot**
-![Praktikum 1](screenshots/praktikum1.png)
+![Praktikum 1.1](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss1/1.png?raw=true)
+![Praktikum 1](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss1/2.png?raw=true)
+![Praktikum 1](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss1/8.png?raw=true)
 
 ---
 
@@ -18,7 +20,10 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Implementasi CRUD data artikel.
 
 **Screenshot**
-![Praktikum 2](screenshots/praktikum2.png)
+![Praktikum 2](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss2/21.png?raw=true)
+![Praktikum 2](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss2/25.png?raw=true)
+![Praktikum 2](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss2/26.png?raw=true)
+
 
 ---
 
@@ -26,7 +31,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Membuat template layout dan View Cell.
 
 **Screenshot**
-![Praktikum 3](screenshots/praktikum3.png)
+![Praktikum 3](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss3/31.png?raw=true)
+![Praktikum 3](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss3/32.png?raw=true)
 
 ---
 
@@ -34,7 +40,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Implementasi login dan session.
 
 **Screenshot**
-![Praktikum 4](screenshots/praktikum4.png)
+![Praktikum 4](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss4/41.png?raw=true)
+![Praktikum 4](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss4/42.png?raw=true)
 
 ---
 
@@ -42,7 +49,9 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Pagination dan pencarian data.
 
 **Screenshot**
-![Praktikum 5](screenshots/praktikum5.png)
+![Praktikum 5](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss5/51.png?raw=true)
+![Praktikum 5](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss5/52.png?raw=true)
+![Praktikum 5](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss5/53.png?raw=true)
 
 ---
 
@@ -50,7 +59,9 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Relasi tabel kategori dan artikel.
 
 **Screenshot**
-![Praktikum 6](screenshots/praktikum6.png)
+![Praktikum 6](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss6/62.png?raw=true)
+![Praktikum 6](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss6/64.png?raw=true)
+![Praktikum 6](https://github.com/RifqiMaulana2033/LaporanAkhirPraktikum/blob/main/ss/ss6/656.png?raw=true)
 
 ---
 
@@ -58,6 +69,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Upload gambar artikel.
 
 **Screenshot**
+![Praktikum 7](screenshots/praktikum7.png)
+![Praktikum 7](screenshots/praktikum7.png)
 ![Praktikum 7](screenshots/praktikum7.png)
 
 ---
@@ -67,6 +80,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 
 **Screenshot**
 ![Praktikum 8](screenshots/praktikum8.png)
+![Praktikum 8](screenshots/praktikum8.png)
+![Praktikum 8](screenshots/praktikum8.png)
 
 ---
 
@@ -74,6 +89,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Pagination dan pencarian AJAX.
 
 **Screenshot**
+![Praktikum 9](screenshots/praktikum9.png)
+![Praktikum 9](screenshots/praktikum9.png)
 ![Praktikum 9](screenshots/praktikum9.png)
 
 ---
@@ -83,6 +100,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 
 **Screenshot**
 ![Praktikum 10](screenshots/praktikum10.png)
+![Praktikum 10](screenshots/praktikum10.png)
+![Praktikum 10](screenshots/praktikum10.png)
 
 ---
 
@@ -90,6 +109,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Frontend menggunakan Vue.js.
 
 **Screenshot**
+![Praktikum 11](screenshots/praktikum11.png)
+![Praktikum 11](screenshots/praktikum11.png)
 ![Praktikum 11](screenshots/praktikum11.png)
 
 ---
@@ -99,6 +120,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 
 **Screenshot**
 ![Praktikum 12](screenshots/praktikum12.png)
+![Praktikum 12](screenshots/praktikum12.png)
+![Praktikum 12](screenshots/praktikum12.png)
 
 ---
 
@@ -106,6 +129,8 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 - Login API dan Navigation Guards.
 
 **Screenshot**
+![Praktikum 13](screenshots/praktikum13.png)
+![Praktikum 13](screenshots/praktikum13.png)
 ![Praktikum 13](screenshots/praktikum13.png)
 
 ---
@@ -115,3 +140,21 @@ Repository ini berisi hasil praktikum mata kuliah **Pemrograman Web 2** mengguna
 
 **Screenshot**
 ![Praktikum 14](screenshots/praktikum14.png)
+
+---
+
+## Teknologi yang Digunakan
+PHP 8
+CodeIgniter 4
+MySQL
+JavaScript
+Vue.js 3
+Axios
+jQuery
+REST API
+
+---
+
+## Hasil Akhir
+
+Pada akhir praktikum berhasil dibuat aplikasi manajemen artikel berbasis CodeIgniter 4 dengan frontend Vue.js (SPA) yang mendukung CRUD, autentikasi pengguna, REST API, AJAX, upload gambar, relasi database, serta keamanan API menggunakan token.
